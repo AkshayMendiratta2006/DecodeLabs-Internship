@@ -18,7 +18,14 @@ This repository contains my milestone projects completed during the Data Analyti
 * Calculated the Pearson Correlation Coefficient to map linear relationships and key revenue drivers.
 * Developed a Python pipeline to automate the genration of data-driven Executive Summary 
 
+### Project 3: SQL Data Analysis
+**Goal:** Use structured SQL queries to extract actinable business intelligence, filter records, and aggregate performance metrics from raw datasets.
+* Engineered a Python-based SQL engine using `sqlite3` and `pandas` to query local `.xlsx` files directly.
+* Executed relational `SELECT` queries utilizing `WHERE`, `ORDER BY`, and `GROUP BY` clauses to isolate high-value transactions.
+* Performed data aggregation (`COUNT`, `SUM`, `AVG`) to identify top revenue-driving products and quantify a 41.4% order failure transactions.
+* Automated the extraction of query results into dynamically formated Markdown reports.
+
 ## 🛠️ Tools & Technologies
 * **Language:** Python
-* **Libraries:** Pandas, Openpyxl
+* **Libraries:** Pandas, Openpyxl, sqlite3
 * **Environment:** VS Code, Git
