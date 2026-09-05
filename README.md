@@ -25,7 +25,13 @@ This repository contains my milestone projects completed during the Data Analyti
 * Performed data aggregation (`COUNT`, `SUM`, `AVG`) to identify top revenue-driving products and quantify a 41.4% order failure transactions.
 * Automated the extraction of query results into dynamically formated Markdown reports.
 
+### Project 4: Data Visualization & Storytelling
+**Goal:** Translate complex analytical findings into boardroom-ready visual narratives using SCR (Situation-Complication-Resolution) framework.
+* Developed a Python script using `matplotlib` to generate optimized, high-fidelity business charts.
+* Applied data-link maximization principles by eliminating chartjunk, utilizing direct labeling, and employing strategic color mapping.
+* Documented a massive 41.4% fulfillment pipeline leakage through actionable, visually compelling metrics.
+
 ## 🛠️ Tools & Technologies
 * **Language:** Python
-* **Libraries:** Pandas, Openpyxl, sqlite3
+* **Libraries:** Pandas, Openpyxl, sqlite3, Matplotlib
 * **Environment:** VS Code, Git
